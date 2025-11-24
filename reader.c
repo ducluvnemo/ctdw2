@@ -34,4 +34,3 @@ int openInputStream(char *fileName) {
 void closeInputStream() {
   fclose(inputStream);
 }
-
